@@ -7,7 +7,7 @@ npm install -g json-server
 Create a db.json file with some data
 
 {
-    "lookbook": [
+    "logbook": [
         {
             "Id": "1",
             "Timestamp": "2019-10-15T18:04:24.528595",
